@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="289b3707-375c-46eb-8948-e143df0fe5e8" name="Changes" comment="" />
+    <list default="true" id="289b3707-375c-46eb-8948-e143df0fe5e8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Python/08_tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/09_dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/10_sets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/11_boolean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/12_conditional.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/13_while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/14_for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/15_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/16_scope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/17_lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/18_map_filter_reduce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/19_modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/20a_package_management.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/20b_package_management.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/21_exception_handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/22_file_handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/23_classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +71,23 @@
     &quot;Python.06_string_methods.executor&quot;: &quot;Run&quot;,
     &quot;Python.07_lists.executor&quot;: &quot;Run&quot;,
     &quot;Python.08_tuples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09_dictionaries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10_sets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11_boolean.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12_conditional.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13_while.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14_for.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16_scope.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17_lambda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18_map_filter_reduce.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19_modules.executor&quot;: &quot;Run&quot;,
+    &quot;Python.20_package_management.executor&quot;: &quot;Run&quot;,
+    &quot;Python.20a_package_management.executor&quot;: &quot;Run&quot;,
+    &quot;Python.20b_package_management.executor&quot;: &quot;Run&quot;,
+    &quot;Python.21_exception_handling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.22_file_handling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.23_classes.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
@@ -60,7 +97,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Sunle/Desktop/SHT/Big Data Intern&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Sunle/Desktop/SHT/Big Data Intern/Python&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -70,6 +107,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sunle\Desktop\SHT\Big Data Intern\Python" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -85,7 +127,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1773208992859</updated>
-      <workItem from="1773208994036" duration="4275000" />
+      <workItem from="1773208994036" duration="9054000" />
     </task>
     <servers />
   </component>
@@ -93,18 +135,35 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Big_Data_Intern$03_typecasting.coverage" NAME="03_typecasting Coverage Results" MODIFIED="1773210429086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Assignment/Assignment 01" />
-    <SUITE FILE_PATH="coverage/Big_Data_Intern$02_syntax_comments.coverage" NAME="02_syntax_comments Coverage Results" MODIFIED="1773213544566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
-    <SUITE FILE_PATH="coverage/Big_Data_Intern$08_tuples.coverage" NAME="08_tuples Coverage Results" MODIFIED="1773211159423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Assignment/Assignment 02" />
+    <SUITE FILE_PATH="coverage/Big_Data_Intern$13_while.coverage" NAME="13_while Coverage Results" MODIFIED="1773219218637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/Big_Data_Intern$17_lambda.coverage" NAME="17_lambda Coverage Results" MODIFIED="1773219395608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/Big_Data_Intern$14_for.coverage" NAME="14_for Coverage Results" MODIFIED="1773219250186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/Big_Data_Intern$08_tuples.coverage" NAME="08_tuples Coverage Results" MODIFIED="1773218505715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/Big_Data_Intern$04_operators.coverage" NAME="04_operators Coverage Results" MODIFIED="1773210493178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Assignment/Assignment 01" />
-    <SUITE FILE_PATH="coverage/Big_Data_Intern$07_lists.coverage" NAME="07_lists Coverage Results" MODIFIED="1773213862893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/Big_Data_Intern$02_syntex_comments.coverage" NAME="02_syntex_comments Coverage Results" MODIFIED="1773209425907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Assignment/Assignment 01" />
     <SUITE FILE_PATH="coverage/Big_Data_Intern$04_typecasting.coverage" NAME="04_typecasting Coverage Results" MODIFIED="1773213694438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
-    <SUITE FILE_PATH="coverage/Big_Data_Intern$05_operators.coverage" NAME="05_operators Coverage Results" MODIFIED="1773213716626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/Big_Data_Intern$16_scope.coverage" NAME="16_scope Coverage Results" MODIFIED="1773219351292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/Big_Data_Intern$06_string_methods.coverage" NAME="06_string_methods Coverage Results" MODIFIED="1773213843365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/Big_Data_Intern$02__Python_Syntax___Comments.coverage" NAME="02. Python Syntax &amp; Comments Coverage Results" MODIFIED="1773212614860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/Big_Data_Intern$03_variables_datatypes.coverage" NAME="03_variables_datatypes Coverage Results" MODIFIED="1773213584838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
-    <SUITE FILE_PATH="coverage/Big_Data_Intern$02_Python_Syntax___Comments.coverage" NAME="02 Python Syntax &amp; Comments Coverage Results" MODIFIED="1773213456428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/Big_Data_Intern$19_modules.coverage" NAME="19_modules Coverage Results" MODIFIED="1773219448647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/Big_Data_Intern$20a_package_management.coverage" NAME="20a_package_management Coverage Results" MODIFIED="1773218382401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/Big_Data_Intern$21_exception_handling.coverage" NAME="21_exception_handling Coverage Results" MODIFIED="1773219608907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/Big_Data_Intern$02_variable_and_datatype.coverage" NAME="02_variable_and_datatype Coverage Results" MODIFIED="1773210363087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Assignment/Assignment 01" />
+    <SUITE FILE_PATH="coverage/Big_Data_Intern$11_boolean.coverage" NAME="11_boolean Coverage Results" MODIFIED="1773219006024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/Big_Data_Intern$18_map_filter_reduce.coverage" NAME="18_map_filter_reduce Coverage Results" MODIFIED="1773219423439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/Big_Data_Intern$20_package_management.coverage" NAME="20_package_management Coverage Results" MODIFIED="1773215434018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/Big_Data_Intern$20b_package_management.coverage" NAME="20b_package_management Coverage Results" MODIFIED="1773218380270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/Big_Data_Intern$23_classes.coverage" NAME="23_classes Coverage Results" MODIFIED="1773219685091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/Big_Data_Intern$03_typecasting.coverage" NAME="03_typecasting Coverage Results" MODIFIED="1773210429086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Assignment/Assignment 01" />
+    <SUITE FILE_PATH="coverage/Big_Data_Intern$02_syntax_comments.coverage" NAME="02_syntax_comments Coverage Results" MODIFIED="1773213544566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/Big_Data_Intern$22_file_handling.coverage" NAME="22_file_handling Coverage Results" MODIFIED="1773219635888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/Big_Data_Intern$10_sets.coverage" NAME="10_sets Coverage Results" MODIFIED="1773218884116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/Big_Data_Intern$07_lists.coverage" NAME="07_lists Coverage Results" MODIFIED="1773213862893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/Big_Data_Intern$05_operators.coverage" NAME="05_operators Coverage Results" MODIFIED="1773213716626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/Big_Data_Intern$12_conditional.coverage" NAME="12_conditional Coverage Results" MODIFIED="1773219082700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/Big_Data_Intern$02_Python_Syntax___Comments.coverage" NAME="02 Python Syntax &amp; Comments Coverage Results" MODIFIED="1773213456428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/Big_Data_Intern$15_functions.coverage" NAME="15_functions Coverage Results" MODIFIED="1773219335180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/Big_Data_Intern$09_dictionaries.coverage" NAME="09_dictionaries Coverage Results" MODIFIED="1773218661712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
   </component>
 </project>
